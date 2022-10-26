@@ -32,6 +32,9 @@
       "manualSeiNo": "AAAAAAAA11111",
       "manualSeiMultiFlg": "1"
       ,"kingakuSet":{ "teiseiAkakuroKbn": "0", "hontaiJpyAmn": "1,100"}
+      ,"screenHskKmk": "画面用補足項目1"
+      ,"saihakkoFlg": "saihakko1"
+      ,"teiseiAkakuroFlg": "teiseiakkr0"
     },
     {
       "syside": "システム識別子2",
@@ -58,6 +61,9 @@
       "manualSeiNo": "AAAAAAAA22222",
       "manualSeiMultiFlg": "1"
       ,"kingakuSet":{ "teiseiAkakuroKbn": "1", "hontaiJpyAmn": "-2,200"}
+      ,"screenHskKmk": "画面用補足項目2"
+      ,"saihakkoFlg": "saihakko2"
+      ,"teiseiAkakuroFlg": "teiseiakkr2"
     },
     {
       "syside": "システム識別子3",
@@ -84,6 +90,9 @@
       "manualSeiNo": "AAAAAAAA13333",
       "manualSeiMultiFlg": "1"
       ,"kingakuSet":{ "teiseiAkakuroKbn": "0", "hontaiJpyAmn": "3,300"}
+      ,"screenHskKmk": "画面用補足項目3"
+      ,"saihakkoFlg": "saihakko3"
+      ,"teiseiAkakuroFlg": "teiseiakkr3"
     },
     {
       "syside": "システム識別子4",
@@ -110,6 +119,9 @@
       "manualSeiNo": "AAAAAAAA14444",
       "manualSeiMultiFlg": "1"
       ,"kingakuSet":{ "teiseiAkakuroKbn": "0", "hontaiJpyAmn": "4,400"}
+      ,"screenHskKmk": "画面用補足項目4"
+      ,"saihakkoFlg": "saihakko4"
+      ,"teiseiAkakuroFlg": "teiseiakkr4"
     },
     {
       "syside": "システム識別子5",
@@ -136,6 +148,9 @@
       "manualSeiNo": "AAAAAAAA15555",
       "manualSeiMultiFlg": "1"
       ,"kingakuSet":{ "teiseiAkakuroKbn": "1", "hontaiJpyAmn": "-5,500"}
+      ,"screenHskKmk": "画面用補足項目5"
+      ,"saihakkoFlg": "saihakko5"
+      ,"teiseiAkakuroFlg": "teiseiakkr5"
     },
     {
       "syside": "システム識別子6",
@@ -162,6 +177,9 @@
       "manualSeiNo": "AAAAAAAA16666",
       "manualSeiMultiFlg": "0"
       ,"kingakuSet":{ "teiseiAkakuroKbn": "0", "hontaiJpyAmn": "6,600"}
+      ,"screenHskKmk": "画面用補足項目6"
+      ,"saihakkoFlg": "saihakko6"
+      ,"teiseiAkakuroFlg": "teiseiakkr6"
     },
     {
       "syside": "システム識別子7",
@@ -188,6 +206,9 @@
       "manualSeiNo": "AAAAAAAA17777",
       "manualSeiMultiFlg": ""
       ,"kingakuSet":{ "teiseiAkakuroKbn": "1", "hontaiJpyAmn": "-7,700"}
+      ,"screenHskKmk": "画面用補足項目7
+      ,"saihakkoFlg": "saihakko7"
+      ,"teiseiAkakuroFlg": "teiseiakkr7"
     },
     {
       "syside": "システム識別子8",
@@ -214,6 +235,9 @@
       "manualSeiNo": "AAAAAAAA18888",
       "manualSeiMultiFlg": "0"
       ,"kingakuSet":{ "teiseiAkakuroKbn": "1", "hontaiJpyAmn": "-8,400"}
+      ,"screenHskKmk": "画面用補足項目8
+      ,"saihakkoFlg": "saihakko8
+      ,"teiseiAkakuroFlg": "teiseiakkr8"
     },
     {
       "syside": "システム識別子9",
@@ -240,6 +264,9 @@
       "manualSeiNo": "AAAAAAAA19999",
       "manualSeiMultiFlg": "1"
       ,"kingakuSet":{ "teiseiAkakuroKbn": "0", "hontaiJpyAmn": "9,400"}
+      ,"screenHskKmk": "画面用補足項目9"
+      ,"saihakkoFlg": "saihakko9"
+      ,"teiseiAkakuroFlg": "teiseiakkr9"
     }
   ],
   "msgInfo": [
