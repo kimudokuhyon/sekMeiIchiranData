@@ -37,68 +37,6 @@
       ,"teiseiAkakuroFlg": "teiseiakkr0"
       ,"shoriIrai":"処理依頼1"
       ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA11111", "disabledInputBox":"true", "disabledChkBox":"true"}
-    },
-    {
-      "syside": "システム識別子2",
-      "sekmeiIchiiNo": "1234ABCD99997777",
-      "internalSyside": "引越",
-      "seikyusyoBango": "BBBBCCCC010102002",
-      "kykIchiranCod": "BBBB",
-      "keiKykCod": "02",
-      "sekKykCod": "02",
-      "uncKykCod": "02",
-      "sekMeiKykCod": "002",
-      "kJsbSKykMsyo": "請求明細顧客名称2",
-      "sgytenCod": "作業店コードB",
-      "comtenrnmKnj": "作業店所漢字名称2",
-      "seiKijnYmd": "2022/07/02",
-      "comShohinNm": "商品名2",
-      "kJsbMicSysIde": "フロント独自情報2",
-      "okurijNo": "111111113333",
-      "hontaiJpyAmn": "-2,200",
-      "teiseiKbn": "訂正2",
-      "teiseiAkakuroKbn": "1",
-      "teiseiSyside": "訂正元識別子2",
-      "teiseiSekmeiIchiiNo": "訂正元一意番号2",
-      "manualSeiNo": "AAAAAAAA22222",
-      "manualSeiMultiFlg": "1"
-      ,"kingakuSet":{ "teiseiAkakuroKbn": "1", "hontaiJpyAmn": "-2,200"}
-      ,"screenHskKmk": "画面用補足項目2"
-      ,"saihakkoFlg": "saihakko2"
-      ,"teiseiAkakuroFlg": "teiseiakkr2"
-      ,"shoriIrai":"処理依頼2"
-      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA22222", "disabledInputBox":"true", "disabledChkBox":"true"}
-    },
-    {
-      "syside": "システム識別子3",
-      "sekmeiIchiiNo": "1234ABCD99996666",
-      "internalSyside": "鉄道",
-      "seikyusyoBango": "BBBBCCCC010103003",
-      "kykIchiranCod": "CCCC",
-      "keiKykCod": "03",
-      "sekKykCod": "03",
-      "uncKykCod": "03",
-      "sekMeiKykCod": "003",
-      "kJsbSKykMsyo": "請求明細顧客名称3",
-      "sgytenCod": "作業店コードC",
-      "comtenrnmKnj": "作業店所漢字名称3",
-      "seiKijnYmd": "2022/08/02",
-      "comShohinNm": "商品名3",
-      "kJsbMicSysIde": "フロント独自情報3",
-      "okurijNo": "111111114444",
-      "hontaiJpyAmn": "3,300",
-      "teiseiKbn": "訂正3",
-      "teiseiAkakuroKbn": "0",
-      "teiseiSyside": "訂正元識別子3",
-      "teiseiSekmeiIchiiNo": "訂正元一意番号3",
-      "manualSeiNo": "AAAAAAAA13333",
-      "manualSeiMultiFlg": "1"
-      ,"kingakuSet":{ "teiseiAkakuroKbn": "0", "hontaiJpyAmn": "3,300"}
-      ,"screenHskKmk": "画面用補足項目3"
-      ,"saihakkoFlg": "saihakko3"
-      ,"teiseiAkakuroFlg": "teiseiakkr3"
-      ,"shoriIrai":"処理依頼3"
-      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA13333", "disabledInputBox":"true", "disabledChkBox":"true"}
     }
   ],
   "msgInfo": [
