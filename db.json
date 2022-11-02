@@ -36,7 +36,38 @@
       ,"saihakkoFlg": "saihakko1"
       ,"teiseiAkakuroFlg": "teiseiakkr0"
       ,"shoriIrai":"処理依頼1"
-      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA11111", "disabledInputBox":true, "disabledChkBox":true}
+      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA11111", "disabledInputBox":"true", "disabledChkBox":"true"}
+    },
+    {
+      "syside": "システム識別子2",
+      "sekmeiIchiiNo": "1234ABCD99997777",
+      "internalSyside": "引越",
+      "seikyusyoBango": "BBBBCCCC010102002",
+      "kykIchiranCod": "BBBB",
+      "keiKykCod": "02",
+      "sekKykCod": "02",
+      "uncKykCod": "02",
+      "sekMeiKykCod": "002",
+      "kJsbSKykMsyo": "請求明細顧客名称2",
+      "sgytenCod": "作業店コードB",
+      "comtenrnmKnj": "作業店所漢字名称2",
+      "seiKijnYmd": "2022/07/02",
+      "comShohinNm": "商品名2",
+      "kJsbMicSysIde": "フロント独自情報2",
+      "okurijNo": "111111113333",
+      "hontaiJpyAmn": "-2,200",
+      "teiseiKbn": "訂正2",
+      "teiseiAkakuroKbn": "1",
+      "teiseiSyside": "訂正元識別子2",
+      "teiseiSekmeiIchiiNo": "訂正元一意番号2",
+      "manualSeiNo": "AAAAAAAA22222",
+      "manualSeiMultiFlg": "1"
+      ,"kingakuSet":{ "teiseiAkakuroKbn": "1", "hontaiJpyAmn": "-2,200"}
+      ,"screenHskKmk": "画面用補足項目2"
+      ,"saihakkoFlg": "saihakko2"
+      ,"teiseiAkakuroFlg": "teiseiakkr2"
+      ,"shoriIrai":"処理依頼2"
+      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA22222", "disabledInputBox":"true", "disabledChkBox":"true"}
     }
   ],
   "msgInfo": [
