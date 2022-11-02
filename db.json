@@ -36,7 +36,7 @@
       ,"saihakkoFlg": "saihakko1"
       ,"teiseiAkakuroFlg": "teiseiakkr0"
       ,"shoriIrai":"処理依頼1"
-      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA11111", "disabledInputBox":"true", "disabledChkBox":"true"}
+      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA11111", "disabledInputBox":true, "disabledChkBox":true}
     }
   ],
   "msgInfo": [
