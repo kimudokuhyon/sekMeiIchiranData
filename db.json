@@ -35,6 +35,8 @@
       ,"screenHskKmk": "画面用補足項目1"
       ,"saihakkoFlg": "saihakko1"
       ,"teiseiAkakuroFlg": "teiseiakkr0"
+      ,"shoriIrai":"処理依頼1"
+      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA11111", "disabledInputBox":true, "disabledChkBox":true}
     },
     {
       "syside": "システム識別子2",
@@ -64,6 +66,8 @@
       ,"screenHskKmk": "画面用補足項目2"
       ,"saihakkoFlg": "saihakko2"
       ,"teiseiAkakuroFlg": "teiseiakkr2"
+      ,"shoriIrai":"処理依頼2"
+      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA22222", "disabledInputBox":true, "disabledChkBox":true}
     },
     {
       "syside": "システム識別子3",
@@ -93,6 +97,8 @@
       ,"screenHskKmk": "画面用補足項目3"
       ,"saihakkoFlg": "saihakko3"
       ,"teiseiAkakuroFlg": "teiseiakkr3"
+      ,"shoriIrai":"処理依頼3"
+      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA13333", "disabledInputBox":true, "disabledChkBox":true}
     },
     {
       "syside": "システム識別子4",
@@ -122,6 +128,8 @@
       ,"screenHskKmk": "画面用補足項目4"
       ,"saihakkoFlg": "saihakko4"
       ,"teiseiAkakuroFlg": "teiseiakkr4"
+      ,"shoriIrai":"処理依頼4"
+      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA14444", "disabledInputBox":true, "disabledChkBox":true}
     },
     {
       "syside": "システム識別子5",
@@ -151,6 +159,8 @@
       ,"screenHskKmk": "画面用補足項目5"
       ,"saihakkoFlg": "saihakko5"
       ,"teiseiAkakuroFlg": "teiseiakkr5"
+      ,"shoriIrai":"処理依頼5"
+      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA15555", "disabledInputBox":true, "disabledChkBox":true}
     },
     {
       "syside": "システム識別子6",
@@ -180,6 +190,8 @@
       ,"screenHskKmk": "画面用補足項目6"
       ,"saihakkoFlg": "saihakko6"
       ,"teiseiAkakuroFlg": "teiseiakkr6"
+      ,"shoriIrai":"処理依頼6"
+      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA16666", "disabledInputBox":true, "disabledChkBox":true}
     },
     {
       "syside": "システム識別子7",
@@ -209,6 +221,8 @@
       ,"screenHskKmk": "画面用補足項目7"
       ,"saihakkoFlg": "saihakko7"
       ,"teiseiAkakuroFlg": "teiseiakkr7"
+      ,"shoriIrai":"処理依頼7"
+      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA17777", "disabledInputBox":true, "disabledChkBox":true}
     },
     {
       "syside": "システム識別子8",
@@ -238,6 +252,8 @@
       ,"screenHskKmk": "画面用補足項目8"
       ,"saihakkoFlg": "saihakko8"
       ,"teiseiAkakuroFlg": "teiseiakkr8"
+      ,"shoriIrai":"処理依頼8"
+      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA18888", "disabledInputBox":true, "disabledChkBox":true}
     },
     {
       "syside": "システム識別子9",
@@ -267,6 +283,8 @@
       ,"screenHskKmk": "画面用補足項目9"
       ,"saihakkoFlg": "saihakko9"
       ,"teiseiAkakuroFlg": "teiseiakkr9"
+      ,"shoriIrai":"処理依頼9"
+      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA19999", "disabledInputBox":true, "disabledChkBox":true}
     }
   ],
   "msgInfo": [
