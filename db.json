@@ -223,6 +223,37 @@
       ,"teiseiAkakuroFlg": "teiseiakkr7"
       ,"shoriIrai":"処理依頼7"
       ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA17777", "disabledInputBox":"true", "disabledChkBox":"true"}
+    },
+    {
+      "syside": "システム識別子8",
+      "sekmeiIchiiNo": "5678HIJK99992222",
+      "internalSyside": "航空際貨輸出",
+      "seikyusyoBango": "BBBBCCCC010108008",
+      "kykIchiranCod": "HHHH",
+      "keiKykCod": "08",
+      "sekKykCod": "08",
+      "uncKykCod": "08",
+      "sekMeiKykCod": "008",
+      "kJsbSKykMsyo": "請求明細顧客名称8",
+      "sgytenCod": "作業店コードH",
+      "comtenrnmKnj": "作業店所漢字名称8",
+      "seiKijnYmd": "2023/01/02",
+      "comShohinNm": "商品名8",
+      "kJsbMicSysIde": "フロント独自情報8",
+      "okurijNo": "111111118888",
+      "hontaiJpyAmn": "-8,800",
+      "teiseiKbn": "訂正8",
+      "teiseiAkakuroKbn": "0",
+      "teiseiSyside": "訂正元識別子8",
+      "teiseiSekmeiIchiiNo": "訂正元一意番号8",
+      "manualSeiNo": "AAAAAAAA18888",
+      "manualSeiMultiFlg": "0"
+      ,"kingakuSet":{ "teiseiAkakuroKbn": "1", "hontaiJpyAmn": "-8,400"}
+      ,"screenHskKmk": "画面用補足項目8"
+      ,"saihakkoFlg": "saihakko8"
+      ,"teiseiAkakuroFlg": "teiseiakkr8"
+      ,"shoriIrai":"処理依頼8"
+      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA18888", "disabledInputBox":"true", "disabledChkBox":"true"}
     }
   ],
   "msgInfo": [
