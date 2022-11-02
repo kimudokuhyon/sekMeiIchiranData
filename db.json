@@ -254,6 +254,37 @@
       ,"teiseiAkakuroFlg": "teiseiakkr8"
       ,"shoriIrai":"処理依頼8"
       ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA18888", "disabledInputBox":"true", "disabledChkBox":"true"}
+    },
+    {
+      "syside": "システム識別子9",
+      "sekmeiIchiiNo": "5678HIJK99993333",
+      "internalSyside": "鉄道",
+      "seikyusyoBango": "BBBBCCCC010109009",
+      "kykIchiranCod": "IIII",
+      "keiKykCod": "09",
+      "sekKykCod": "09",
+      "uncKykCod": "09",
+      "sekMeiKykCod": "009",
+      "kJsbSKykMsyo": "請求明細顧客名称9",
+      "sgytenCod": "作業店コードI",
+      "comtenrnmKnj": "作業店所漢字名称9",
+      "seiKijnYmd": "2023/02/02",
+      "comShohinNm": "商品名9",
+      "kJsbMicSysIde": "フロント独自情報9",
+      "okurijNo": "111111119999",
+      "hontaiJpyAmn": "9,900",
+      "teiseiKbn": "訂正9",
+      "teiseiAkakuroKbn": "0",
+      "teiseiSyside": "訂正元識別子9",
+      "teiseiSekmeiIchiiNo": "訂正元一意番号9",
+      "manualSeiNo": "AAAAAAAA19999",
+      "manualSeiMultiFlg": "1"
+      ,"kingakuSet":{ "teiseiAkakuroKbn": "0", "hontaiJpyAmn": "9,400"}
+      ,"screenHskKmk": "画面用補足項目9"
+      ,"saihakkoFlg": "saihakko9"
+      ,"teiseiAkakuroFlg": "teiseiakkr9"
+      ,"shoriIrai":"処理依頼9"
+      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA19999", "disabledInputBox":"true", "disabledChkBox":"true"}
     }
   ],
   "msgInfo": [
