@@ -33,7 +33,7 @@
       "manualSeiMultiFlg": "1"
       ,"kingakuSet":{ "teiseiAkakuroKbn": "0", "hontaiJpyAmn": "1,100"}
       ,"screenHskKmk": "画面用補足項目1"
-      ,"saihakkoFlg": "saihakko1"
+      ,"saihakkoFlg": "0"
       ,"teiseiAkakuroFlg": "teiseiakkr0"
       ,"shoriIrai":"処理依頼1"
       ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA11111", "disabledInputBox":"true", "disabledChkBox":"true"}
@@ -64,7 +64,7 @@
       "manualSeiMultiFlg": "1"
       ,"kingakuSet":{ "teiseiAkakuroKbn": "1", "hontaiJpyAmn": "-2,200"}
       ,"screenHskKmk": "画面用補足項目2"
-      ,"saihakkoFlg": "saihakko2"
+      ,"saihakkoFlg": "1"
       ,"teiseiAkakuroFlg": "teiseiakkr2"
       ,"shoriIrai":"処理依頼2"
       ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA22222", "disabledInputBox":"true", "disabledChkBox":"true"}
@@ -95,7 +95,7 @@
       "manualSeiMultiFlg": "1"
       ,"kingakuSet":{ "teiseiAkakuroKbn": "0", "hontaiJpyAmn": "3,300"}
       ,"screenHskKmk": "画面用補足項目3"
-      ,"saihakkoFlg": "saihakko3"
+      ,"saihakkoFlg": "1"
       ,"teiseiAkakuroFlg": "teiseiakkr3"
       ,"shoriIrai":"処理依頼3"
       ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA13333", "disabledInputBox":"true", "disabledChkBox":"true"}
@@ -126,7 +126,7 @@
       "manualSeiMultiFlg": "1"
       ,"kingakuSet":{ "teiseiAkakuroKbn": "0", "hontaiJpyAmn": "4,400"}
       ,"screenHskKmk": "画面用補足項目4"
-      ,"saihakkoFlg": "saihakko4"
+      ,"saihakkoFlg": "0"
       ,"teiseiAkakuroFlg": "teiseiakkr4"
       ,"shoriIrai":"処理依頼4"
       ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA14444", "disabledInputBox":"true", "disabledChkBox":"true"}
@@ -157,7 +157,7 @@
       "manualSeiMultiFlg": "1"
       ,"kingakuSet":{ "teiseiAkakuroKbn": "1", "hontaiJpyAmn": "-5,500"}
       ,"screenHskKmk": "画面用補足項目5"
-      ,"saihakkoFlg": "saihakko5"
+      ,"saihakkoFlg": "0"
       ,"teiseiAkakuroFlg": "teiseiakkr5"
       ,"shoriIrai":"処理依頼5"
       ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA15555", "disabledInputBox":"true", "disabledChkBox":"true"}
@@ -188,7 +188,7 @@
       "manualSeiMultiFlg": "0"
       ,"kingakuSet":{ "teiseiAkakuroKbn": "0", "hontaiJpyAmn": "6,600"}
       ,"screenHskKmk": "画面用補足項目6"
-      ,"saihakkoFlg": "saihakko6"
+      ,"saihakkoFlg": "0"
       ,"teiseiAkakuroFlg": "teiseiakkr6"
       ,"shoriIrai":"処理依頼6"
       ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA16666", "disabledInputBox":"true", "disabledChkBox":"true"}
@@ -219,7 +219,7 @@
       "manualSeiMultiFlg": ""
       ,"kingakuSet":{ "teiseiAkakuroKbn": "1", "hontaiJpyAmn": "-7,700"}
       ,"screenHskKmk": "画面用補足項目7"
-      ,"saihakkoFlg": "saihakko7"
+      ,"saihakkoFlg": "0"
       ,"teiseiAkakuroFlg": "teiseiakkr7"
       ,"shoriIrai":"処理依頼7"
       ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA17777", "disabledInputBox":"true", "disabledChkBox":"true"}
@@ -250,7 +250,7 @@
       "manualSeiMultiFlg": "0"
       ,"kingakuSet":{ "teiseiAkakuroKbn": "1", "hontaiJpyAmn": "-8,400"}
       ,"screenHskKmk": "画面用補足項目8"
-      ,"saihakkoFlg": "saihakko8"
+      ,"saihakkoFlg": "0"
       ,"teiseiAkakuroFlg": "teiseiakkr8"
       ,"shoriIrai":"処理依頼8"
       ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA18888", "disabledInputBox":"true", "disabledChkBox":"true"}
