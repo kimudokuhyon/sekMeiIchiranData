@@ -216,7 +216,7 @@
       "teiseiSyside": "訂正元識別子7",
       "teiseiSekmeiIchiiNo": "訂正元一意番号7",
       "manualSeiNo": "AAAAAAAA17777",
-      "manualSeiMultiFlg": ""
+      "manualSeiMultiFlg": "0"
       ,"kingakuSet":{ "teiseiAkakuroKbn": "1", "hontaiJpyAmn": "-7,700"}
       ,"screenHskKmk": "画面用補足項目7"
       ,"saihakkoFlg": "0"
