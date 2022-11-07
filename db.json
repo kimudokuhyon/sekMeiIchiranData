@@ -31,12 +31,11 @@
       "teiseiSekmeiIchiiNo": "訂正元一意番号1",
       "manualSeiNo": "AAAAAAAA11111",
       "manualSeiMultiFlg": "1"
-      ,"kingakuSet":{ "teiseiAkakuroKbn": "0", "hontaiJpyAmn": "1,100"}
       ,"screenHskKmk": "画面用補足項目1"
       ,"saihakkoFlg": "0"
       ,"teiseiAkakuroFlg": "teiseiakkr0"
       ,"shoriIrai":"処理依頼1"
-      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA11111", "disabledInputBox":"true", "disabledChkBox":"true"}
+      ,"version":"v1"
     },
     {
       "syside": "システム識別子2",
@@ -62,12 +61,11 @@
       "teiseiSekmeiIchiiNo": "訂正元一意番号2",
       "manualSeiNo": "AAAAAAAA22222",
       "manualSeiMultiFlg": "1"
-      ,"kingakuSet":{ "teiseiAkakuroKbn": "1", "hontaiJpyAmn": "-2,200"}
       ,"screenHskKmk": "画面用補足項目2"
       ,"saihakkoFlg": "1"
       ,"teiseiAkakuroFlg": "teiseiakkr2"
       ,"shoriIrai":"処理依頼2"
-      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA22222", "disabledInputBox":"true", "disabledChkBox":"true"}
+      ,"version":"v2
     },
     {
       "syside": "システム識別子3",
@@ -93,12 +91,11 @@
       "teiseiSekmeiIchiiNo": "訂正元一意番号3",
       "manualSeiNo": "AAAAAAAA13333",
       "manualSeiMultiFlg": "1"
-      ,"kingakuSet":{ "teiseiAkakuroKbn": "0", "hontaiJpyAmn": "3,300"}
       ,"screenHskKmk": "画面用補足項目3"
       ,"saihakkoFlg": "1"
       ,"teiseiAkakuroFlg": "teiseiakkr3"
       ,"shoriIrai":"処理依頼3"
-      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA13333", "disabledInputBox":"true", "disabledChkBox":"true"}
+      ,"version":"v3
     },
     {
       "syside": "システム識別子4",
@@ -124,12 +121,11 @@
       "teiseiSekmeiIchiiNo": "訂正元一意番号4",
       "manualSeiNo": "AAAAAAAA14444",
       "manualSeiMultiFlg": "1"
-      ,"kingakuSet":{ "teiseiAkakuroKbn": "0", "hontaiJpyAmn": "4,400"}
       ,"screenHskKmk": "画面用補足項目4"
       ,"saihakkoFlg": "0"
       ,"teiseiAkakuroFlg": "teiseiakkr4"
       ,"shoriIrai":"処理依頼4"
-      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA14444", "disabledInputBox":"true", "disabledChkBox":"true"}
+      ,"version":"v4
     },
     {
       "syside": "システム識別子5",
@@ -155,12 +151,11 @@
       "teiseiSekmeiIchiiNo": "訂正元一意番号5",
       "manualSeiNo": "AAAAAAAA15555",
       "manualSeiMultiFlg": "1"
-      ,"kingakuSet":{ "teiseiAkakuroKbn": "1", "hontaiJpyAmn": "-5,500"}
       ,"screenHskKmk": "画面用補足項目5"
       ,"saihakkoFlg": "0"
       ,"teiseiAkakuroFlg": "teiseiakkr5"
       ,"shoriIrai":"処理依頼5"
-      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA15555", "disabledInputBox":"true", "disabledChkBox":"true"}
+      ,"version":"v5
     },
     {
       "syside": "システム識別子6",
@@ -186,12 +181,11 @@
       "teiseiSekmeiIchiiNo": "訂正元一意番号6",
       "manualSeiNo": "AAAAAAAA16666",
       "manualSeiMultiFlg": "0"
-      ,"kingakuSet":{ "teiseiAkakuroKbn": "0", "hontaiJpyAmn": "6,600"}
       ,"screenHskKmk": "画面用補足項目6"
       ,"saihakkoFlg": "0"
       ,"teiseiAkakuroFlg": "teiseiakkr6"
       ,"shoriIrai":"処理依頼6"
-      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA16666", "disabledInputBox":"true", "disabledChkBox":"true"}
+      ,"version":"v6
     },
     {
       "syside": "システム識別子7",
@@ -217,12 +211,11 @@
       "teiseiSekmeiIchiiNo": "訂正元一意番号7",
       "manualSeiNo": "AAAAAAAA17777",
       "manualSeiMultiFlg": "0"
-      ,"kingakuSet":{ "teiseiAkakuroKbn": "1", "hontaiJpyAmn": "-7,700"}
       ,"screenHskKmk": "画面用補足項目7"
       ,"saihakkoFlg": "0"
       ,"teiseiAkakuroFlg": "teiseiakkr7"
       ,"shoriIrai":"処理依頼7"
-      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA17777", "disabledInputBox":"true", "disabledChkBox":"true"}
+      ,"version":"v7
     },
     {
       "syside": "システム識別子8",
@@ -248,12 +241,11 @@
       "teiseiSekmeiIchiiNo": "訂正元一意番号8",
       "manualSeiNo": "AAAAAAAA18888",
       "manualSeiMultiFlg": "0"
-      ,"kingakuSet":{ "teiseiAkakuroKbn": "1", "hontaiJpyAmn": "-8,400"}
       ,"screenHskKmk": "画面用補足項目8"
       ,"saihakkoFlg": "0"
       ,"teiseiAkakuroFlg": "teiseiakkr8"
       ,"shoriIrai":"処理依頼8"
-      ,"manualSeiNoSet":{"manualSeiNo": "AAAAAAAA18888", "disabledInputBox":"true", "disabledChkBox":"true"}
+      ,"version":"v8
     }
   ],
   "msgInfo": [
