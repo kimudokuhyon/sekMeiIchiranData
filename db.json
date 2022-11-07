@@ -65,7 +65,7 @@
       ,"saihakkoFlg": "1"
       ,"teiseiAkakuroFlg": "teiseiakkr2"
       ,"shoriIrai":"処理依頼2"
-      ,"version":"v2
+      ,"version":"v2"
     },
     {
       "syside": "システム識別子3",
@@ -95,7 +95,7 @@
       ,"saihakkoFlg": "1"
       ,"teiseiAkakuroFlg": "teiseiakkr3"
       ,"shoriIrai":"処理依頼3"
-      ,"version":"v3
+      ,"version":"v3"
     },
     {
       "syside": "システム識別子4",
@@ -125,7 +125,7 @@
       ,"saihakkoFlg": "0"
       ,"teiseiAkakuroFlg": "teiseiakkr4"
       ,"shoriIrai":"処理依頼4"
-      ,"version":"v4
+      ,"version":"v4"
     },
     {
       "syside": "システム識別子5",
@@ -155,7 +155,7 @@
       ,"saihakkoFlg": "0"
       ,"teiseiAkakuroFlg": "teiseiakkr5"
       ,"shoriIrai":"処理依頼5"
-      ,"version":"v5
+      ,"version":"v5"
     },
     {
       "syside": "システム識別子6",
@@ -185,7 +185,7 @@
       ,"saihakkoFlg": "0"
       ,"teiseiAkakuroFlg": "teiseiakkr6"
       ,"shoriIrai":"処理依頼6"
-      ,"version":"v6
+      ,"version":"v6"
     },
     {
       "syside": "システム識別子7",
@@ -215,7 +215,7 @@
       ,"saihakkoFlg": "0"
       ,"teiseiAkakuroFlg": "teiseiakkr7"
       ,"shoriIrai":"処理依頼7"
-      ,"version":"v7
+      ,"version":"v7"
     },
     {
       "syside": "システム識別子8",
@@ -245,7 +245,7 @@
       ,"saihakkoFlg": "0"
       ,"teiseiAkakuroFlg": "teiseiakkr8"
       ,"shoriIrai":"処理依頼8"
-      ,"version":"v8
+      ,"version":"v8"
     }
   ],
   "msgInfo": [
