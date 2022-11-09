@@ -3,7 +3,8 @@
     {
       "totalPageCount": 2,
       "totalRecordCount": 8,
-      "currentPage": 1
+      "currentPage": 1,
+      "seiMeiLimitCount" : 5
     }
   ],
   "seikyuMeisaiList": [
