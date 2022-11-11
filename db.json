@@ -37,8 +37,8 @@
       ,"teiseiAkakuroFlg": "teiseiakkr0"
       ,"shoriIrai":"処理依頼1"
       ,"version":"v1"
-      ,"horyu_flg":"1"
-      ,"teiseiAkakuroFlg":"1"
+      ,"horyuFlg": "1"
+      ,"teiseiAkakuroFlg": "1"
     },
     {
       "syside": "システム識別子2",
@@ -69,6 +69,8 @@
       ,"teiseiAkakuroFlg": "teiseiakkr2"
       ,"shoriIrai":"処理依頼2"
       ,"version":"v2"
+      ,"horyuFlg": "0"
+      ,"teiseiAkakuroFlg": "0"
     },
     {
       "syside": "システム識別子3",
@@ -99,8 +101,6 @@
       ,"teiseiAkakuroFlg": "teiseiakkr3"
       ,"shoriIrai":"処理依頼3"
       ,"version":"v3"
-      ,"horyu_flg":"0"
-      ,"teiseiAkakuroFlg":"0"
     },
     {
       "syside": "システム識別子4",
