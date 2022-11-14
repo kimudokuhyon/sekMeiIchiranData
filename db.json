@@ -65,7 +65,7 @@
       "manualSeiNo": "AAAAAAAA22222",
       "manualSeiMultiFlg": "1"
       ,"screenHskKmk": "画面用補足項目2"
-      ,"saihakkoFlg": "1"
+      ,"saihakkoFlg": "0"
       ,"teiseiAkakuroFlg": "teiseiakkr2"
       ,"shoriIrai":"処理依頼2"
       ,"version":"v2"
@@ -97,7 +97,7 @@
       "manualSeiNo": "AAAAAAAA13333",
       "manualSeiMultiFlg": "1"
       ,"screenHskKmk": "画面用補足項目3"
-      ,"saihakkoFlg": "1"
+      ,"saihakkoFlg": "0"
       ,"teiseiAkakuroFlg": "teiseiakkr3"
       ,"shoriIrai":"処理依頼3"
       ,"version":"v3"
