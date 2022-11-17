@@ -37,7 +37,7 @@
       ,"shoriIrai":"処理依頼1"
       ,"version":"v1"
       ,"horyuFlg": "1"
-      ,"teiseiAkakuroFlg": "0"
+      ,"teiseiAkakuroFlg": "1"
     },
     {
       "syside": "システム識別子2",
@@ -68,7 +68,7 @@
       ,"shoriIrai":"処理依頼2"
       ,"version":"v2"
       ,"horyuFlg": "0"
-      ,"teiseiAkakuroFlg": "0"
+      ,"teiseiAkakuroFlg": "1"
     },
     {
       "syside": "システム識別子3",
@@ -126,7 +126,7 @@
       "manualSeiMultiFlg": "1"
       ,"screenHskKmk": "画面用補足項目4"
       ,"saihakkoFlg": "0"
-      ,"teiseiAkakuroFlg": "0"
+      ,"teiseiAkakuroFlg": "1"
       ,"shoriIrai":"処理依頼4"
       ,"version":"v4"
     },
@@ -149,7 +149,7 @@
       "okurijNo": "111111115555",
       "hontaiJpyAmn": "-5,500",
       "teiseiKbn": "訂正5",
-      "teiseiAkakuroKbn": "0",
+      "teiseiAkakuroKbn": "1",
       "teiseiSyside": "訂正元識別子5",
       "teiseiSekmeiIchiiNo": "訂正元一意番号5",
       "manualSeiNo": "AAAAAAAA15555",
@@ -216,7 +216,7 @@
       "manualSeiMultiFlg": "0"
       ,"screenHskKmk": "画面用補足項目7"
       ,"saihakkoFlg": "0"
-      ,"teiseiAkakuroFlg": "0"
+      ,"teiseiAkakuroFlg": "1"
       ,"shoriIrai":"処理依頼7"
       ,"version":"v7"
     },
@@ -246,7 +246,7 @@
       "manualSeiMultiFlg": "0"
       ,"screenHskKmk": "画面用補足項目8"
       ,"saihakkoFlg": "0"
-      ,"teiseiAkakuroFlg": "0"
+      ,"teiseiAkakuroFlg": "1"
       ,"shoriIrai":"処理依頼8"
       ,"version":"v8"
     }
