@@ -68,7 +68,7 @@
       ,"shoriIrai":"処理依頼2"
       ,"version":"v2"
       ,"horyuFlg": "0"
-      ,"teiseiAkakuroFlg": "1"
+      ,"teiseiAkakuroFlg": "0"
     },
     {
       "syside": "システム識別子3",
@@ -126,7 +126,7 @@
       "manualSeiMultiFlg": "1"
       ,"screenHskKmk": "画面用補足項目4"
       ,"saihakkoFlg": "0"
-      ,"teiseiAkakuroFlg": "1"
+      ,"teiseiAkakuroFlg": "0"
       ,"shoriIrai":"処理依頼4"
       ,"version":"v4"
     },
@@ -156,7 +156,7 @@
       "manualSeiMultiFlg": "1"
       ,"screenHskKmk": "画面用補足項目5"
       ,"saihakkoFlg": "0"
-      ,"teiseiAkakuroFlg": "1"
+      ,"teiseiAkakuroFlg": "0"
       ,"shoriIrai":"処理依頼5"
       ,"version":"v5"
     },
